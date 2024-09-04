@@ -1,4 +1,4 @@
-# Candle Grey
+# Monochrome Grey
 
 ![screenshot](screenshot.png)
 
